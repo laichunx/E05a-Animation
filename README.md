@@ -1,4 +1,10 @@
 # E05a-Animation
+# Description:
+# In this assignment we learned how to read and understand code in the simple program created with arcade.
+# In main1, we learned how to use some mouse motion handler and how to draw in the window.
+# In main2, we learned how to use the key handler and how the update work.
+# In main3, we learned how to put assets into the program and apply the knowledge we learned in main2 to
+# make the sprite can move around and pick up the coins.
 
 We will begin to explore keyboard and mouse control in a Python Arcade program.
 
